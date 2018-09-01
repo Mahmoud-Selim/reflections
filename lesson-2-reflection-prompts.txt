@@ -20,6 +20,9 @@ organized? How would branches help?
 
 How do the diagrams help you visualize the branch structure?
 
+	They help us track the history of each branch and the commits includes in each branch. They also help us visualise the whole repository
+	and notice when a commit maybe unreachable.
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
