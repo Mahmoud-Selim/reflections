@@ -42,4 +42,15 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    I would make changes in a different branch in the following cases:
+    	1- If i'm collaborating with other people.
+    	2- If i want to have a product quality version of the code all the time (the original working version of the code.)
+    	3- If i want to organize my work more and more.
+
+    Benefits for having another branches:
+    	1- Easy to collaborate with others.
+    	2- Has a good version of the code all the time.
+    	3- Makes it more easy to handle adding additional features or fixing bugs in the code.
+    	
+    Benefites for commiting to the master:
+    	1- Easy to make commits only but it will be more difficult when collaborating with others.
