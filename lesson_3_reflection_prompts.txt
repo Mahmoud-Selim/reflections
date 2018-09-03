@@ -26,7 +26,9 @@ use one instead of another?
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+    It could help making the merge easier as it doesn't need a internet connection to make it. 
+    It can help while using the git hub commands such as viewing the difference or the log or status as now they are performed only on
+    	an existing branch.
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
